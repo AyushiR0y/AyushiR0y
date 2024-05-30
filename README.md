@@ -1,4 +1,4 @@
- Hi, I’m @AyushiR0y. I’m interested in web development, app development and UI/UX design. I’m currently learning React and NodeJS.
+ Hi, I’m @AyushiR0y. I’m interested in web development, app development and UI/UX design. I’m currently learning Machine Learning.
  Pronouns: She/Her
 
 <!---
